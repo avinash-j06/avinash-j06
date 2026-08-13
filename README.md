@@ -116,51 +116,24 @@
 
 ## 📊 GitHub Statistics
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinash-j06&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/avinash-j06">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avinash-j06&theme=github_dark" alt="GitHub Profile Summary" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=avinash-j06&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-j06&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
 
 
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/avinash-j06/avinash-j06/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/avinash-j06/avinash-j06/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/avinash-j06/avinash-j06/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+  <img src="https://raw.githubusercontent.com/avinash-j06/avinash-j06/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
 
 
 ## 🏆 Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=avinash-j06&theme=darkhub&no-frame=true&no-bg=true&margin-w=8"
-    alt="GitHub Trophies"
-  />
-</p>
 
 - 🥈 Runner-Up — **ASTRA Tech Fest Coding Contest**
 - 🥉 2nd Runner-Up — **ASTRA Tech Fest Hackathon**
