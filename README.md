@@ -1,20 +1,56 @@
-# 👋 Hi, I'm Avinash Jaiswal
+<!-- ===================== HERO SECTION ===================== -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding Animation"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;CSE+Student+%7C+Problem+Solver;Building+Projects+with+AI+%26+Technology;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm Avinash Jaiswal</h1>
 
 <p align="center">
   <a href="https://github.com/avinash-j06">
-    <img src="https://komarev.com/ghpvc/?username=avinash-j06&label=Profile%20Views&color=00C7FF&style=flat-square" alt="Profile Views"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=%3E+Hello%2C+World!+I'm+Avinash+%F0%9F%91%8B;%3E+AI+%7C+Machine+Learning+%7C+Deep+Learning;%3E+Problem+Solver+%26+Technology+Enthusiast;%3E+Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80" alt="Typing Animation" />
   </a>
 </p>
 
----
+<br/>
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│   $ whoami                                   │
+│                                              │
+│   Avinash Jaiswal                            │
+│   CSE Student | AI/ML Enthusiast             │
+│                                              │
+│   $ current_focus                            │
+│                                              │
+│   Building AI-powered real-world projects 🚀 │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+</div>
+
+<p align="center">
+
+<a href="#-about-me">
+  <img src="https://img.shields.io/badge/👨‍💻_Explore_Profile-58A6FF?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/avinash-j06?tab=repositories">
+  <img src="https://img.shields.io/badge/🚀_View_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/avinash-j06">
+  <img src="https://komarev.com/ghpvc/?username=avinash-j06&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" />
+</a>
+
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avinash-j06&theme=github_dark" alt="GitHub Profile Summary"/>
+</p>
+
+<!-- ===================== END HERO SECTION ===================== -->
+
 
 ## 👨‍💻 About Me
 
@@ -40,7 +76,7 @@
 
 <p>
   <a href="https://github.com/avinash-j06/smart-traffic-safety-system">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
   </a>
 </p>
 
@@ -73,9 +109,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,javascript,mysql,flask,git,github,vscode&perline=11" />
-
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,javascript,mysql,flask,git,github,vscode&perline=6" />
 </p>
 
 ---
@@ -83,23 +117,37 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinash-j06&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=avinash-j06&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-j06&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://streak-stats.demolab.com?user=avinash-j06&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-j06&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-j06&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/avinash-j06/avinash-j06/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img
+    src="https://raw.githubusercontent.com/avinash-j06/avinash-j06/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake animation"
+  />
 </p>
 
 ---
@@ -107,7 +155,10 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=avinash-j06&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=avinash-j06&theme=tokyonight&no-frame=true&margin-w=10&row=1"
+    alt="GitHub Trophies"
+  />
 </p>
 
 * 🥈 Runner-Up — **ASTRA Tech Fest Coding Contest**
@@ -122,7 +173,10 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avinash-j06&theme=tokyo-night&hide_border=true&area=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=avinash-j06&theme=tokyo-night&hide_border=true&area=true"
+    alt="Contribution Graph"
+  />
 </p>
 
 ---
@@ -130,17 +184,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/avinash-j06">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<!-- Replace YOUR_LINKEDIN_URL with your actual LinkedIn profile URL -->
-
-<a href="https://www.linkedin.com/in/avinash-jaiswal-8859b7282">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/avinash-j06">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
@@ -150,7 +196,5 @@
 </p>
 
 <p align="center">
-
-⭐️ From <a href="https://github.com/avinash-j06">Avinash Jaiswal</a>
-
+  ⭐️ From <a href="https://github.com/avinash-j06">Avinash Jaiswal</a>
 </p>
