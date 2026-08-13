@@ -32,7 +32,7 @@
 │  🔴  🟡  🟢        avinash@github:~                         │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  $ whoami                                                   │
+│  $ whoami                                                    │
 │  > Avinash Jaiswal                                           │
 │                                                              │
 │  $ education                                                 │
@@ -45,10 +45,10 @@
 │  > Problem Solving & Real-World Applications                 │
 │                                                              │
 │  $ current_focus                                             │
-│  > Building AI-powered projects 🚀                           │
+│  > Building AI-powered projects 🚀                          │
 │  > Learning. Building. Improving.                            │
 │                                                              │
-│  $ _                                                          │
+│  $ _                                                         │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -129,20 +129,6 @@ Python • Pandas • NumPy
 </td>
 </tr>
 </table>
-
----
-
-<!-- ==================== QUICK FACTS ==================== -->
-
-## ⚡ Quick Facts
-
-```text
-💡  Love solving DSA and programming problems
-☕  Powered by curiosity, code and coffee
-🎯  Focused on building impactful real-world projects
-🌱  Always learning something new
-📍  Raipur, Chhattisgarh, India
-```
 
 ---
 
