@@ -66,6 +66,15 @@
 
 ---
 
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,javascript,mysql,flask,git,github,vscode&perline=6" />
+</p>
+
+---
+
+
 
 
 ## 🐍 Contribution Snake
@@ -115,13 +124,6 @@
 
 ---
 
-## 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,javascript,mysql,flask,git,github,vscode&perline=6" />
-</p>
-
----
 
 ## 🏆 Achievements
 
