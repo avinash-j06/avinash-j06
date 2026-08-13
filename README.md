@@ -128,34 +128,46 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-j06&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
+
+
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/avinash-j06/avinash-j06/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake animation"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/avinash-j06/avinash-j06/output/github-contribution-grid-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/avinash-j06/avinash-j06/output/github-contribution-grid-snake.svg"
+    />
+
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/avinash-j06/avinash-j06/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
----
 
 ## 🏆 Achievements
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=avinash-j06&theme=tokyonight&no-frame=true&margin-w=10&row=1"
+    src="https://github-profile-trophy.vercel.app/?username=avinash-j06&theme=darkhub&no-frame=true&no-bg=true&margin-w=8"
     alt="GitHub Trophies"
   />
 </p>
 
-* 🥈 Runner-Up — **ASTRA Tech Fest Coding Contest**
-* 🥉 2nd Runner-Up — **ASTRA Tech Fest Hackathon**
-* 💻 Solved **150+ DSA Problems**
-* 🏅 Earned a **Gold Streak Badge on CodeChef**
-* 🤖 Built multiple projects in **AI, Machine Learning & Web Development**
-* 🎓 Completed Vocational Training in **AI, ML & Deep Learning**
-
----
+- 🥈 Runner-Up — **ASTRA Tech Fest Coding Contest**
+- 🥉 2nd Runner-Up — **ASTRA Tech Fest Hackathon**
+- 💻 Solved **150+ DSA Problems**
+- 🏅 Earned a **Gold Streak Badge on CodeChef**
+- 🤖 Built projects in **AI, Machine Learning & Web Development**
+- 🎓 Completed Vocational Training in **AI, ML & Deep Learning**
 
 ## 📈 Contribution Graph
 
