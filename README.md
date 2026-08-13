@@ -116,31 +116,18 @@
 
 ## 📊 GitHub Statistics
 
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=avinash-j06&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=avinash-j06&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=avinash-j06&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=avinash-j06&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-j06&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-j06&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
