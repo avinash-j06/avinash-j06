@@ -1,55 +1,177 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ==================== HERO SECTION ==================== -->
 
-<h1 align="center">Hi 👋, I'm Avinash Jaiswal</h1>
+<h1 align="center">
+  Hi 👋, I'm Avinash Jaiswal
+</h1>
 
 <p align="center">
-  <a href="https://github.com/avinash-j06">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=%3E+Hello%2C+World!+I'm+Avinash+%F0%9F%91%8B;%3E+AI+%7C+Machine+Learning+%7C+Deep+Learning;%3E+Problem+Solver+%26+Technology+Enthusiast;%3E+Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80" alt="Typing Animation" />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=%3E+AI+%7C+Machine+Learning+%7C+Problem+Solver;%3E+Building+AI-Powered+Real-World+Projects;%3E+Turning+Ideas+Into+Impactful+Solutions;%3E+Always+Learning.+Always+Building.+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
 </p>
 
-<br/>
+<p align="center">
 
-<div align="center">
+<img src="https://img.shields.io/badge/🧠-AI%20Enthusiast-8B5CF6?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/💻-Problem%20Solver-00D9FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🚀-Tech%20Explorer-22C55E?style=for-the-badge" />
+
+</p>
+
+---
+
+<!-- ==================== TERMINAL ==================== -->
+
+<h2 align="center">💻 <code>avinash@github:~$ whoami</code></h2>
 
 ```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   $ whoami                                   │
-│                                              │
-│   Avinash Jaiswal                            │
-│   CSE Student | AI/ML Enthusiast             │
-│                                              │
-│   $ current_focus                            │
-│                                              │
-│   Building AI-powered real-world projects 🚀 │
-│                                              │
-└──────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│  🔴  🟡  🟢        avinash@github:~                         │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  $ whoami                                                   │
+│  > Avinash Jaiswal                                           │
+│                                                              │
+│  $ education                                                 │
+│  > B.Tech CSE Student                                        │
+│  > Government Engineering College, Raipur                    │
+│                                                              │
+│  $ passion                                                   │
+│  > Artificial Intelligence                                   │
+│  > Machine Learning & Deep Learning                          │
+│  > Problem Solving & Real-World Applications                 │
+│                                                              │
+│  $ current_focus                                             │
+│  > Building AI-powered projects 🚀                           │
+│  > Learning. Building. Improving.                            │
+│                                                              │
+│  $ _                                                          │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-</div>
+---
+
+<!-- ==================== QUICK NAVIGATION ==================== -->
+
+<h2 align="center">⚡ Quick Navigation</h2>
 
 <p align="center">
-
-<a href="#-about-me">
-  <img src="https://img.shields.io/badge/👨‍💻_Explore_Profile-58A6FF?style=for-the-badge" />
-</a>
 
 <a href="https://github.com/avinash-j06?tab=repositories">
-  <img src="https://img.shields.io/badge/🚀_View_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔗_View_Projects-0EA5E9?style=for-the-badge&labelColor=111827" />
 </a>
 
-<a href="https://github.com/avinash-j06">
-  <img src="https://komarev.com/ghpvc/?username=avinash-j06&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" />
+<a href="#-github-statistics">
+  <img src="https://img.shields.io/badge/📊_GitHub_Stats-8B5CF6?style=for-the-badge&labelColor=111827" />
+</a>
+
+<a href="#-connect-with-me">
+  <img src="https://img.shields.io/badge/📬_Connect_With_Me-22C55E?style=for-the-badge&labelColor=111827" />
+</a>
+
+<a href="#-achievements">
+  <img src="https://img.shields.io/badge/🏆_Achievements-F59E0B?style=for-the-badge&labelColor=111827" />
 </a>
 
 </p>
+
+---
+
+<!-- ==================== CURRENTLY EXPLORING ==================== -->
+
+## 🚀 Currently Exploring
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Machine Learning
+
+<img src="https://img.shields.io/badge/Status-Learning-8B5CF6?style=flat-square" />
+
+Python • Scikit-learn • XGBoost
+
+</td>
+
+<td width="50%">
+
+### 🧠 Deep Learning
+
+<img src="https://img.shields.io/badge/Status-Exploring-00D9FF?style=flat-square" />
+
+CNN • BiLSTM • Neural Networks
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Web Development
+
+<img src="https://img.shields.io/badge/Status-Building-22C55E?style=flat-square" />
+
+HTML • CSS • JavaScript • Flask
+
+</td>
+
+<td width="50%">
+
+### 📊 Data Analysis
+
+<img src="https://img.shields.io/badge/Status-Improving-F59E0B?style=flat-square" />
+
+Python • Pandas • NumPy
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ==================== QUICK FACTS ==================== -->
+
+## ⚡ Quick Facts
+
+```text
+💡  Love solving DSA and programming problems
+☕  Powered by curiosity, code and coffee
+🎯  Focused on building impactful real-world projects
+🌱  Always learning something new
+📍  Raipur, Chhattisgarh, India
+```
+
+---
+
+<!-- ==================== MINI DASHBOARD ==================== -->
+
+## 📡 Developer Dashboard
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avinash-j06&theme=github_dark" alt="GitHub Profile Summary"/>
+
+<img src="https://img.shields.io/badge/🚀_Projects-AI%20%7C%20ML%20%7C%20Web-00D9FF?style=for-the-badge&labelColor=111827" />
+
+<img src="https://img.shields.io/badge/💻_Focus-Problem%20Solving-8B5CF6?style=for-the-badge&labelColor=111827" />
+
+<img src="https://img.shields.io/badge/🧠_Learning-AI%20%26%20Deep%20Learning-22C55E?style=for-the-badge&labelColor=111827" />
+
 </p>
 
-<!-- ===================== END HERO SECTION ===================== -->
+---
+
+<p align="center">
+
+<i>
+"Turning curiosity into code and ideas into impactful solutions."
+</i>
+
+</p>
+
+<!-- ==================== END HERO SECTION ==================== -->
+
 
 
 ## 👨‍💻 About Me
