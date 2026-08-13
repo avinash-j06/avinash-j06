@@ -24,8 +24,8 @@
 ---
 
 <!-- ==================== TERMINAL ==================== -->
-<h2 align="center">💻 <code>avinash@github:~$ whoami</code></h2>
 
+```text
 ┌──────────────────────────────────────────────────────────────┐
 │  🔴  🟡  🟢        avinash@github:~                         │
 ├──────────────────────────────────────────────────────────────┤
@@ -43,7 +43,7 @@
 │  > Problem Solving & Real-World Applications                 │
 │                                                              │
 │  $ current_focus                                             │
-│  > Building AI-powered projects 🚀                          │
+│  > Building AI-powered projects 🚀                           │
 │  > Learning. Building. Improving.                            │
 │                                                              │
 │  $ _                                                         │
@@ -130,6 +130,8 @@ Python • Pandas • NumPy
 
 ---
 
+
+
 <!-- ==================== MINI DASHBOARD ==================== -->
 
 ## 📡 Developer Dashboard
@@ -155,6 +157,7 @@ Python • Pandas • NumPy
 </p>
 
 <!-- ==================== END HERO SECTION ==================== -->
+
 
 
 
