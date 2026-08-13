@@ -78,6 +78,15 @@
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <a href="https://github.com/avinash-j06">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avinash-j06&theme=github_dark" alt="GitHub Profile Summary" />
+  </a>
+</p>
+
+
 <!-- ==================== CURRENTLY EXPLORING ==================== -->
 
 ## 🚀 Currently Exploring
