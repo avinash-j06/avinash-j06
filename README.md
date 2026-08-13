@@ -66,6 +66,15 @@
 
 ---
 
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/avinash-j06/avinash-j06/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+
 ## 🚀 Featured Projects
 
 ### 🚦 Smart Traffic, Accident & Crime Prediction System
@@ -113,25 +122,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <a href="https://github.com/avinash-j06">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avinash-j06&theme=github_dark" alt="GitHub Profile Summary" />
-  </a>
-</p>
-
-
-
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/avinash-j06/avinash-j06/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-
 
 ## 🏆 Achievements
 
